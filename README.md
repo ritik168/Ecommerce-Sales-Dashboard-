@@ -16,11 +16,11 @@ Owner of Madhav store wants us to help them create a dashboard to track and anal
 - Sum of AVG.
 ## Tech stack
 # The Key technology used to build the dashboard.
-. Power BI - The core platform for buliding, visualizing, and sahring the dashboard. it includes   Power BI Desktop (for development).
-. Power Query - Built_in tool within Power BI for data transformation,cleaning, and modeling.
-. DAX (Data Analysis Expressions) - Used for creating calculated columns,
-measures, and complex aggreration.
+- Power BI - The core platform for buliding, visualizing, and sahring the dashboard. it includes   Power BI Desktop (for development).
+- Power Query - Built_in tool within Power BI for data transformation,cleaning, and modeling.
+- DAX (Data Analysis Expressions) - Used for creating calculated columns,
+  measures, and complex aggreration.
 ## process
--Verify data for any missing values and anomalies, and sort out the same.
--Made sure data is consistent and clean with respect to data type,format and values used.
--
+- Verify data for any missing values and anomalies, and sort out the same.
+- Made sure data is consistent and clean with respect to data type,format and values used.
+- 
